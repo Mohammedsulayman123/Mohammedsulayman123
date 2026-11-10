@@ -28,6 +28,12 @@
 
 <!-- SOCIAL / CONTACT BADGES -->
 <p align="center">
+  <a href="https://mohammedsulayman123.github.io/devops-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_LIVE_PORTFOLIO-Visit_Interactive_SRE_Site-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mohammed-sulayman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -63,6 +69,7 @@ sulayman@cluster-master:~$ cat /etc/engineer/mission.json | jq .
   "philosophy": "Everything as Code. Scan early, automate relentlessly, observe deeply.",
   "experience": "Ex-DevOps Intern @ Ooredoo Qatar (Reduced time-to-market by 30%, maintained 99.9% uptime)",
   "education": "B.E. Computer Science & Engineering @ BMS College of Engineering, Bengaluru",
+  "portfolio": "https://mohammedsulayman123.github.io/devops-portfolio/",
   "status": "Available for High-Impact DevOps / SRE / Cloud Roles 🚀"
 }
 ```
@@ -243,6 +250,10 @@ sulayman@cluster-master:~$ cat /etc/engineer/mission.json | jq .
 <div align="center">
   <p>Looking for a dedicated <b>DevOps / SRE Engineer</b> who can bridge development, security, and cloud reliability?</p>
   
+  <a href="https://mohammedsulayman123.github.io/devops-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Explore-Live_SRE_Portfolio-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="mailto:mdsulaymanzain2@gmail.com">
     <img src="https://img.shields.io/badge/Send%20Email-mdsulaymanzain2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
